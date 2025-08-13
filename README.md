@@ -22,5 +22,6 @@ C’est mon tout premier projet en programmation. 🚀
 
 ## 📜 Remarques
 
-Ce projet est un exercice d’apprentissage issu d’un cours Udemy.  
+Ce projet est un exercice d’apprentissage issu d’un cours Udemy.
+lien du cours: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512356?start=0#overview
 Il marque ma première étape dans le monde du développement web 💻.
